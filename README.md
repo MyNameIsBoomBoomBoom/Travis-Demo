@@ -1,4 +1,4 @@
-Travis-Demo 
+Travis-Demo
 
 …or create a new repository on the command line
 echo "# Travis-Demo" >> README.md
